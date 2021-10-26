@@ -1,0 +1,7 @@
+main: GatuGamerYT.AutoRestartServer.AutoRestartServer
+version: 1.0.1
+name: AutoRestartServer
+
+commands:
+  AutoRestart:
+    description: comando principal del plugin
